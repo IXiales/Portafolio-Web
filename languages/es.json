@@ -8,13 +8,13 @@
   },
   "presentacion": {
     "bienvenida": "Bienvenidos",
-    "perfil": "Soy <span>Jorman Urbina</span>, Desarrollador Front-end",
+    "perfil": "Soy <span>Gabriel Gonzalez</span><br> Desarrollador Front-end",
     "descripcion": "Me gusta crear productos frontend sólidos, interactivos y escalables orientados a ofrecer experiencias interesantes al usuario.",
     "portafolio": "Ir a Portafolio"
   },
   "sobremi": {
     "rol": "Desarrollador Front-end",
-    "saludo": "Hola, soy <span>Jorman Urbina</span>",
+    "saludo": "Hola, soy <span>Gabriel Gonzalez</span>",
     "descripcion": "Apasionado por la creación y desarrollo de aplicaciones web, con sólidos conocimientos de HTML, CSS, JavaScript y React para ofrecer soluciones rápidas, resistentes y optimizadas. <br><br> El dinamismo, rendimiento y la escalabilidad son prioridades en mi radar.",
     "descargarcv": "Descargar mi CV"
   },
@@ -55,6 +55,6 @@
     "texto": "Tu mensaje..."
   },
   "footer": {
-    "derechos": "Todos los derechos reservados - 2022"
+    "derechos": "Todos los derechos reservados - 2024"
   }
 }
